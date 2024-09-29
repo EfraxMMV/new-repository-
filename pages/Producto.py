@@ -7,7 +7,7 @@ def producto(nombrep, cantidad = 1, precio = 10):
 
 with st.container():
     st.write("---")
-    st.header("Suma de dos numeros")
+    st.header("Producto, Cantidad, Precio por unidad ")
     nombre = st.text_input("Nombre del producto: ")
     cantidad = st.number_input("Cantidad: ", min_value = 1, value = 1)
     precio = st.number_input("precio por unidad: ", min_value = 0.0, value = 10.0)
