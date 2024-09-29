@@ -56,6 +56,8 @@ con la funcion **producto()** que tiene como parametros **nombrep, cantidad y pr
 
 Se trata del archivo mas sencillo en esta pania web, contiene una funcion **saludo()** toma como parametro un nombre, se podria considerar que el usuario ingresara su nombre y la funcion le retornara un saludo de bienvenida, que contenga el nombre del usuario, la estructura del saludo seria **"Hola [nombre] bienvenido!**
 
+---
+
 **Suma.py**
 
 La funcion **sumar()** recibe parametros **a y b** despues en una variable se alamacena la operacion aritmetica suma de estos dos numeros ingresados por el usuario, para despues retornar un mensaje donde el usuario pueda visualizar el resultado de la suma. 
