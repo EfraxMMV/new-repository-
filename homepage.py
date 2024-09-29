@@ -24,12 +24,18 @@ with st.container():
         """
     )
     # Lista de funciones disponibles
-    st.write("- **Multiplicación de números**")
-    st.write("- **Suma de listas**")
-    st.write("- **Información personal**")
-    st.write("- **Separación de números pares e impares**")
+    st.write("- **Calculadora Simple**")
+    st.write("- **Calcular area de un triangulo**")
+    st.write("- **Calcular Precio total**")
+    st.write("- **Informacion Personal**")
+    st.write("- **Multiplicar**")
+    st.write("- **Numeros pares e impares")
+    st.write("- **Producto**")
+    st.write("- **Saludo**")
+    st.write("- **Suma**")
+    st.write("- **Sumar lista**")
 
 # Pie de página
 st.write("---")
-st.write("Creado por: [Tu Nombre] | Proyecto Interactivo en Streamlit")
+st.write("Creado por: Efrain Alejandro Arias Meza | Proyecto Interactivo en Streamlit")
 
