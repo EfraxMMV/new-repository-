@@ -29,7 +29,7 @@ with st.container():
     st.write("- **Calcular Precio total**")
     st.write("- **Informacion Personal**")
     st.write("- **Multiplicar**")
-    st.write("- **Numeros pares e impares")
+    st.write("- **Numeros pares e impares**")
     st.write("- **Producto**")
     st.write("- **Saludo**")
     st.write("- **Suma**")
